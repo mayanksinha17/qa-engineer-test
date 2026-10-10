@@ -16,7 +16,7 @@ export function initDatabase() {
   db.users.push({
     id: "1",
     email: "merchant@test.com",
-    password: "$2a$10$8Z3KxGXvGqJQZ.ZF9Z3KxGXvGqJQZ.ZF9Z3KxGXvGqJQZ.ZF9", // password: Test123!
+    password: "$2a$10$/AzgFNVK7XdHlO8jI./0B.epiQMz23rYqsXZnjyQoFqHyrEg4Vt9y", // password: Test123!
     business_name: "Test Merchant",
     type: "merchant",
     created_at: new Date(),
